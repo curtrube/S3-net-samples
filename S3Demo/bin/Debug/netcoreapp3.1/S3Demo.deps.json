@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "S3Demo/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.29",
+          "AWSSDK.S3": "3.5.3.7"
+        },
+        "runtime": {
+          "S3Demo.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.1.29": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.29"
+          }
+        }
+      },
+      "AWSSDK.S3/3.5.3.7": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.29"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.3.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S3Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.1.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qc0HxTZ8P4L/laNDObmKsQu2LdqvhOPeIssEyqcvp8FUXN8RVvPORJDoCV8lG3pCXThL4fBMjQ9kbIR4F1+Jnw==",
+      "path": "awssdk.core/3.5.1.29",
+      "hashPath": "awssdk.core.3.5.1.29.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.5.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dFoIBW3qGA7sRdHiOCY01hRPuZ6KM0HzI2QMS8e7mA6+FAFDhR8zDpAIDraLay6lb+adijMrMrKPc6BbYTr21A==",
+      "path": "awssdk.s3/3.5.3.7",
+      "hashPath": "awssdk.s3.3.5.3.7.nupkg.sha512"
+    }
+  }
+}

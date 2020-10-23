@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJIx7p7W3ukqlyelHNhcAAtvnp39288MLu17MJdH/VrQYn4aZJOXVI96NSqXBEWGjy/OLswiKcBaUzv8nF+/rg==",
+  "success": true,
+  "projectFilePath": "/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/S3Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/curtis/.nuget/packages/awssdk.core/3.5.1.29/awssdk.core.3.5.1.29.nupkg.sha512",
+    "/Users/curtis/.nuget/packages/awssdk.s3/3.5.3.7/awssdk.s3.3.5.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/S3Demo.deps.json
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/S3Demo.runtimeconfig.json
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/S3Demo.runtimeconfig.dev.json
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/S3Demo.dll
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/S3Demo.pdb
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/bin/Debug/netcoreapp3.1/AWSSDK.S3.dll
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.csprojAssemblyReference.cache
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.AssemblyInfoInputs.cache
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.AssemblyInfo.cs
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.csproj.CoreCompileInputs.cache
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.csproj.CopyComplete
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.dll
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.pdb
+/Users/curtis/src/dotnet/learn/S3Demo/S3Demo/obj/Debug/netcoreapp3.1/S3Demo.genruntimeconfig.cache
